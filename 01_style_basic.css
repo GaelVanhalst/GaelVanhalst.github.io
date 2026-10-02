@@ -1,0 +1,77 @@
+@charset "utf-8";
+/* CSS Document: Portfolio*/
+
+body {
+	margin: 0;
+	padding: 0;
+	text-align: center;
+	color: #202020;
+  	
+	font-size: 16px;
+	font-weight:100;
+	font-family: sans-serif;
+	
+	background: #bcbdbc fixed center; 
+	background-repeat: repeat-y;
+	
+}
+
+html {
+	height: 101%;
+}
+
+a:link {
+	color: #507dbc !important;
+}
+a:visited {
+	color: #507dbc !important;
+}
+a:hover {
+	color: #f2bb05 !important;
+}
+a:active {
+	color: #ad8604 !important;
+}
+
+#header{
+    	width:100%;
+	height:132px;
+    	background: #262626;
+}
+#headerContent{
+	
+	width: 960px;
+	position: center;
+}
+
+.Style1 {
+	font-family: "Courier New", Courier, monospace;
+	font-size: 12px;
+}
+
+.Style2 {
+	font-family: sans-serif;
+	font-size: 16px;
+	font-weight:100;
+}
+
+.Style3 {
+	font-family: sans-serif;
+	font-size: 20px;
+	font-weight:bold;
+}
+
+
+.Style4 {
+	font-family: sans-serif;
+	font-size: 16px;
+	font-weight:bold;
+}
+
+.platform
+{
+   font: 18px sofia_pro_lightregular; 
+   top: 10px;
+   left: 25px; 
+   margin: 0px;
+}
